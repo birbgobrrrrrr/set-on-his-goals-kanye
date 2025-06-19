@@ -3,7 +3,7 @@ Presenting... The YEEZYPAD
 
 
 this is my goofy case and model stuff for the PCB:
-![alt text](image.png)
+![alt text](<Screenshot 2025-06-15 123539.png>)
 
 
 the function of this glorious macropad is to just have all my kanye related shortcuts on one macropad so that i can hopefully manifest the old kanye again
@@ -19,16 +19,16 @@ Everything in the cad model fits together with hopes and dreams, im gonna make a
 its also made in onshape (the greatest website of all time)
 
 anyways heres the schematic:
-![alt text](image-1.png)
+![alt text](<Screenshot 2025-06-15 123949.png>)
 
 and heres the other stuff
-![alt text](image-2.png)
+![alt text](<Screenshot 2025-06-15 124028.png>)
 
 heres a pic from the front:
-![alt text](image-4.png)
+![alt text](<Screenshot 2025-06-15 124206.png>)
 
 heres an actual 3d pic (back):
-![alt text](image-3.png)
+![alt text](<Screenshot 2025-06-15 124128-1.png>)
 
 
 BOM:
@@ -51,3 +51,8 @@ a case with 2 3d printed parts (probably ABS or something cool)
 
 
 anyways bye remember that kanye loves you like kanye loves kanye
+
+
+
+
+bye fr
